@@ -6,3 +6,4 @@
 6. TypeScript
 7. JavaScript
 8. Go
+9. Rust
