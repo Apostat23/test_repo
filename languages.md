@@ -7,3 +7,4 @@
 7. JavaScript
 8. Go
 9. Rust
+10. Swift
