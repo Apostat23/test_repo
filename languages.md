@@ -8,3 +8,5 @@
 8. Go
 9. Rust
 10. Swift
+11. PHP
+13. [Ruby](https://www.ruby-lang.org/)
